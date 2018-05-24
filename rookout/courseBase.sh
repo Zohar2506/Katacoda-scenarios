@@ -1,1 +1,1 @@
-mkdir test
+cd  go
