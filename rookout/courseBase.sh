@@ -1,1 +1,1 @@
-echo "Memory information"
+mkdir test
