@@ -1,1 +1,1 @@
-cd  go
+npm install date-formatter
