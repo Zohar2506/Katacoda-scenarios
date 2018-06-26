@@ -2,11 +2,11 @@
   "title": "rookout",
   "description": "rookout",
   "details": {
-    "steps": [
-      {
+    "steps": [{
         "title": "Step 1",
         "text": "step1.md",
-        "courseData": "courseBase.sh"
+        "courseData": "courseBase.sh",
+        "imageid": "node6"
       },
       {
         "title": "Step 2",
