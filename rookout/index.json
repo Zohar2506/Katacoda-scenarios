@@ -5,12 +5,12 @@
     "steps": [{
         "title": "Step 1",
         "text": "step1.md",
-        "courseData": "courseBase.sh",
         "imageid": "node6"
       },
       {
         "title": "Step 2",
-        "text": "step2.md"
+        "text": "step2.md",
+        "courseData": "courseBase.sh"
       },
       {
         "title": "Step 3",
